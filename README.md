@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi 👋, I'm X
 
-<!--
-**softThink02/softThink02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a 26-year-old technology enthusiast from Nigeria with four years of practical experience in the tech industry. As a self-taught programmer, I specialize in frontend web development with a strong focus on React.js.  
 
-Here are some ideas to get you started:
+Driven by curiosity and a passion for problem-solving, I continuously explore emerging technologies and innovative solutions. Let’s collaborate to create something impactful. 🚀  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+### A passionate ReactJs (Next.js) frontend developer  
+
+[![wakatime](https://wakatime.com/badge/user/3fd5ee3e-d388-4042-9dc0-9bd718e5f13d.svg)](https://wakatime.com/@Sthink)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+| Year Contributions | Current Streak | Longest Streak |
+|---------------------|----------------|----------------|
+| **805** <br> 5th May, 2022 - Present | **5** <br> 24th March - 6th May 2025|
+
+</div>
+
