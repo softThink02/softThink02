@@ -7,7 +7,7 @@ Driven by curiosity and a passion for problem-solving, I continuously explore em
 ---
 ### A passionate ReactJs (Next.js) frontend developer  
 
-[![wakatime](https://wakatime.com/badge/user/3fd5ee3e-d388-4042-9dc0-9bd718e5f13d.svg)](https://wakatime.com/@Sthink)
+![wakatime](https://wakatime.com/badge/user/3fd5ee3e-d388-4042-9dc0-9bd718e5f13d.svg)
 
 ---
 
