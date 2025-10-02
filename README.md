@@ -26,8 +26,6 @@ Driven by curiosity and a passion for problem-solving, I continuously explore em
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]([https://youtube.com/@yourusername](https://youtube.com/@xthink_music?si=wHcZsFYSzsCBRZRB))
 
 --- 
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sthink&theme=radical&utcOffset=8)
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -37,11 +35,3 @@ Driven by curiosity and a passion for problem-solving, I continuously explore em
 </p>
 
 ---
-
-## 🏆 Profile Summary
-
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sthink&theme=radical" height="180" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sthink&theme=radical" height="180" />
-</p>
-
