@@ -25,4 +25,27 @@ Driven by curiosity and a passion for problem-solving, I continuously explore em
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://instagram.com/yourusername](https://www.instagram.com/xthink_music?igsh=MW1wM2V3eXUxajdtYg==))
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]([https://youtube.com/@yourusername](https://youtube.com/@xthink_music?si=wHcZsFYSzsCBRZRB))
 
+--- 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sthink&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sthink&layout=compact&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sthink&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sthink&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sthink&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sthink&theme=radical&utcOffset=8)
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sthink&show_icons=true&theme=radical" alt="GitHub Stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sthink&layout=compact&theme=radical" alt="Top Languages" height="160" />
+</p>
+
+---
+
+## 🏆 Profile Summary
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sthink&theme=radical" height="180" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sthink&theme=radical" height="180" />
+</p>
 
