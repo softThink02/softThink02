@@ -5,9 +5,21 @@ I am a 26-year-old technology enthusiast from Nigeria with four years of practic
 Driven by curiosity and a passion for problem-solving, I continuously explore emerging technologies and innovative solutions. Let’s collaborate to create something impactful. 🚀  
 
 ---
-### A passionate ReactJs (Next.js) frontend developer  
+### A passionate ReactJs (Next.js) frontend developer 
 
-[![Wakatime Stats](https://wakatime.com/share/@Sthink/63f8d704-53d8-4f30-a16a-d5daf682b136.svg)(https://wakatime.com/@Sthink)]
+<p align="center">
+  <a href="https://wakatime.com/@Sthink">
+    <img 
+      src="https://wakatime.com/share/@Sthink/63f8d704-53d8-4f30-a16a-d5daf682b136.svg" 
+      alt="Wakatime Stats" 
+      width="400" />
+  </a>
+</p>
+
+
+<div>
+  [![Wakatime Stats](https://wakatime.com/share/@Sthink/63f8d704-53d8-4f30-a16a-d5daf682b136.svg)(https://wakatime.com/@Sthink)]
+</div>
 
 ---
 
