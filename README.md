@@ -28,7 +28,7 @@ Driven by curiosity and a passion for problem-solving, I continuously explore em
 --- 
 ## 📊 GitHub Stats
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sthink&layout=compact&theme=radical" alt="Top Languages" height="160" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sthink&theme=radical" alt="Top Languages" height="160" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sthink&theme=radical&utcOffset=8" alt="Top Languages" height="160" />
