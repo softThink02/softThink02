@@ -18,13 +18,11 @@ Driven by curiosity and a passion for problem-solving, I continuously explore em
 
 ---
 
-## 📊 GitHub Stats
+### Connect with me:
 
-<div align="center">
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourusername)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@yourusername)
 
-| total Contributions    |
-|------------------------|
-| **2805** <br> 5th May, 2022 - Present|
-
-</div>
 
