@@ -7,19 +7,14 @@ Driven by curiosity and a passion for problem-solving, I continuously explore em
 ---
 ### A passionate ReactJs (Next.js) frontend developer 
 
-<p align="center">
+<p align="left">
   <a href="https://wakatime.com/@Sthink">
     <img 
       src="https://wakatime.com/share/@Sthink/63f8d704-53d8-4f30-a16a-d5daf682b136.svg" 
       alt="Wakatime Stats" 
-      width="400" />
+      width="200" />
   </a>
 </p>
-
-
-<div>
-  [![Wakatime Stats](https://wakatime.com/share/@Sthink/63f8d704-53d8-4f30-a16a-d5daf682b136.svg)(https://wakatime.com/@Sthink)]
-</div>
 
 ---
 
