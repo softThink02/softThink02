@@ -22,9 +22,9 @@ Driven by curiosity and a passion for problem-solving, I continuously explore em
 
 <div align="center">
 
-| Year Contributions | Current Streak | Longest Streak |
-|---------------------|----------------|----------------|
-| **805** <br> 5th May, 2022 - Present | **5** <br> 24th March - 6th May 2025|
+| total Contributions    |
+|------------------------|
+| **2805** <br> 5th May, 2022 - Present|
 
 </div>
 
