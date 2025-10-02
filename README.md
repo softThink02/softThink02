@@ -1,4 +1,4 @@
-# Hi 👋, I'm X
+# Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm X
 
 I am a 26-year-old technology enthusiast from Nigeria with four years of practical experience in the tech industry. As a self-taught programmer, I specialize in frontend web development with a strong focus on React.js.  
 
