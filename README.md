@@ -1,7 +1,7 @@
 # **Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">! I'm X**
 
 <p><strong>
-I am a technology enthusiast from Nigeria with four years of practical experience in the tech industry. I specialize in frontend web development with a strong focus on React.js.  
+I am a technology enthusiast from Nigeria with five years of practical experience in the tech industry. I specialize in frontend web development with a strong focus on React.js.  
 
 Driven by curiosity and a passion for problem-solving, I continuously explore emerging technologies and innovative solutions. Let’s collaborate to create something impactful. 🚀
 </strong></p>
