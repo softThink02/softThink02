@@ -1,4 +1,4 @@
-# **Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">! I'm X**
+# **Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">! I'm David X**
 
 <p><strong>
 I am a technology enthusiast from Nigeria with five years of practical experience in the tech industry. I specialize in frontend web development with a strong focus on React.js.  
